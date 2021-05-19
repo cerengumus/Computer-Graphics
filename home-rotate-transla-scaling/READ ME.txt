@@ -1,0 +1,7 @@
+Program calisma Mekanizmasi:
+Ubuntu 14.04 te calistirilmistir.
+151044071.cpp :
+
+g++ 151044071.cpp -lglut -lGLU -lGL
+./a.out
+
